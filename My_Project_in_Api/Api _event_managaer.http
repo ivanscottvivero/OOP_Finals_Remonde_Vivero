@@ -1,0 +1,6 @@
+@Api__event_managaer_HostAddress = http://localhost:5033
+
+GET {{Api__event_managaer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
